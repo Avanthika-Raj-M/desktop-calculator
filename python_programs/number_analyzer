@@ -7,4 +7,9 @@ def square(num):
     print("The square of",num,"is",num*num)
 def cube(num):
     print("The cube of",num,"is",num**3)
-    
+
+n=int(input("Enter a number"))
+print("You entered : ",n)
+odd_even(n)
+square(n)
+cube(n)
