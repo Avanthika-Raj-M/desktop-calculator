@@ -5,4 +5,6 @@ def odd_even(num):
         return 'Odd'
 def square(num):
     print("The square of",num,"is",num*num)
+def cube(num):
+    print("The cube of",num,"is",num**3)
     
