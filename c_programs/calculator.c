@@ -25,3 +25,7 @@ float divide(float a,float b){
     }
     return a/b;
 }
+float power(float base,float power){
+    return pow(base,power);
+    
+}
