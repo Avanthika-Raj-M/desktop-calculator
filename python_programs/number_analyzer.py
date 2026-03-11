@@ -10,6 +10,6 @@ def cube(num):
 
 n=int(input("Enter a number"))
 print("You entered : ",n)
-odd_even(n)
+print(odd_even(n))
 square(n)
 cube(n)
