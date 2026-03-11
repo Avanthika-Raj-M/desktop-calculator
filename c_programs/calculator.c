@@ -27,5 +27,13 @@ float divide(float a,float b){
 }
 float power(float base,float power){
     return pow(base,power);
+
+}
+float squareroot(int num){
+    if(num<0){
+        printf("Error:square root of negative number is not possible");
+        return 0;
+    }
+    return sqrt(num);
     
 }
