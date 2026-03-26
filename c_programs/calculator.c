@@ -104,6 +104,7 @@ int main(){
 
         case 7:
         printf("Exiting calculator...");
+        printf("byeeee");
         break;
 
         default:
@@ -114,3 +115,7 @@ int main(){
     return 0;
     
 }
+
+
+printf("hellooooo");
+printf("random");
