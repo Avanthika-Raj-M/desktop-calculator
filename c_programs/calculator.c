@@ -104,6 +104,7 @@ int main(){
 
         case 7:
         printf("Exiting calculator...");
+        printf("byeeee");
         break;
 
         default:
