@@ -115,3 +115,7 @@ int main(){
     return 0;
     
 }
+
+
+printf("hellooooo");
+printf("random");
